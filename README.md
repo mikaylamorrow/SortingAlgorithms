@@ -1,3 +1,3 @@
 # SortingAlgorithms
 
-![Example Output](sortingOutputExample.PNG)
+![ExampleOutput](sortingOutputExample.png)
